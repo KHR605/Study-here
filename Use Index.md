@@ -6,5 +6,5 @@ alter table 테이블명 add index 인덱스명(컬럼명)
 -- 인덱스 삭제
 alter table 테이블명 drop index 인덱스명;
 -- 인덱스 타는지 확인하는법
-EXPLAIN (type이 all, possible Key 가 null 일 경우에는 안탐  type이 ref일때 possible_key를 보)
+EXPLAIN (type이 all, possible Key 가 null 일 경우에는 안탐  type이 ref일때 possible_key를 보자)
 select * from tb_1
