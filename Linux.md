@@ -26,6 +26,8 @@ Linux란 1991년 9월 17일 리누스 토르발스(Linus Benedict Torbalds)가 �
 - $ cd .. : 부모 디렉토리로 이동
 - $ nano [파일명] : 새 파일 작성 or 존재하는 파일 수정
 - $ cat [파일명] : 파일의 내용 보기
+- $ rm [파일명] : 파일 삭제
+<br>
 
 > sudo (super user do)
 > - 리눅스는 다중 사용자 운영체제
