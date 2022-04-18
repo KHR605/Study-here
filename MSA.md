@@ -15,9 +15,9 @@
  > - 한 Framework와 언어에 종속적이다.
    >   - Spring framework를 사용할 경우, blockchain 연동 모듈을 추가할 때 node.js를 사용하는 것이 일반적이며 강세이다. 
    >   그러나 java를 이용하여 해당 모듈을 작성할 수 밖에 없다. 선정했던 framework가 Spring이기 때문이다.
-
+<br> 
 이러한 단점을 보완할 수 있는 것이 MSA이다.
-
+<br> 
 ### MSA 특징 및 장단점
 
 #### 특징
