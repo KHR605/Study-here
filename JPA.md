@@ -11,5 +11,6 @@
 
 *STS* <br>
 *Spring boot*
+*Annotation*
 
 JPA 예제 참고 : https://kim-oriental.tistory.com/20
