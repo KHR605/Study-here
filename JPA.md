@@ -10,7 +10,7 @@
 - Oracle, MySQL 등 DB 벤더에 따라 조금씩 다른 SQL 문법 때문에 애플리케이션이 DB에 종속될 수밖에 없었는데, JPA는 직접 쿼리를 작성하는 것이 아니라서 DB 벤더에 <strong>독립적으로 개발</strong> 가능.
 
 *STS* <br>
-*Spring boot*
+*Spring boot* <br>
 *Annotation*
 
 JPA 예제 참고 : https://kim-oriental.tistory.com/20
