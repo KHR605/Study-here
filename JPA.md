@@ -1,5 +1,5 @@
 # JPA(Java Persistence API)
-- JPA란 자바의 ORM을 위한 표준 기술로 Hibernate, Spring JPA, EcliplseLink 등 과 같은 구현체가 있고 이것의 표준 인터페이스가 JPA 이다.
+- JPA란 자바의 ORM을 위한 표준 기술로 Hibernate, Spring JPA, EclipseLink 등 과 같은 구현체가 있고 이것의 표준 인터페이스가 JPA 이다.
 
 > *ORM(Object-Relational Mapping)*
 > - 자바의 객체와 관계형 DB를 맵핑하는 것으로 DB의 특정 테이블이 자바의 객체로 맵핑되어 SQL문을 일일이 작성하지 않고 객체로 구현할 수 있도록 하는 프레임워크
