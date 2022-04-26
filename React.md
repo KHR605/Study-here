@@ -33,6 +33,42 @@
  - HTML 문법의 대응으로 생각하며 react는 js 문법이므로 html에서 사용했던 <div <strong>class</strong>=''></div>
  - 를 <div <strong>className</strong>=''></div> 로 사용한다.
 
+
+### useState
+ES6 destructuring 문법 중...
+
+        - 문법
+          let [a, b] = useState([state 데이터1, 데이터2, 데이터3], state 데이터 변경함수);
+          
+          return (
+          <div className="App">
+            <div className='black-nav'>
+              <div>개발 Blog</div>
+            </div>
+            <div className='list'>
+              <h1> { a[0] } </h1>
+              <p>4월 26일 발행</p>
+              <hr />
+            </div>
+
+            <div className='list'>
+              <h1> { a[1] } </h1>
+              <p>4월 26일 발행</p>
+              <hr />
+            </div>
+
+            <div className='list'>
+              <h1> { a[2] } </h1>
+              <p>4월 26일 발행</p>
+              <hr />
+            </div>
+          </div>
+          );
+
+#### useState 사용이유
+ - 웹이 App처럼 동작하게 만들고 싶어서 
+ - 즉, state는 변경이 되면 HTML이 자동으로 재렌더링이 됨. 그에 비해 변수에 저장하는 let = a; 식으로 사용하면 재렌더링이 아닌 새로고침 식으로 ui가 변경됨.
+
 .<br>
 .<br>
 .<br> 지속 작성
