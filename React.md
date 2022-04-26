@@ -1,4 +1,4 @@
-# React
+# React.js
 
 ### 사용이유
 - 앱만들기, 발행하기 쉬우며 UX적으로 뛰어나다. (PWA, Native...)
